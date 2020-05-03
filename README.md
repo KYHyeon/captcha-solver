@@ -4,7 +4,7 @@ Original Image
 
 ![origin](./doc/origin.png)
 
-PreProcessed Image
+Preprocessing Image
 
 ![dest](./doc/dest.png)
 
